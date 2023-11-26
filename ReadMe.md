@@ -1,6 +1,8 @@
 # GFPGAN-1024
 You can train  finetune your GFPGAN-1024 model with your own dataset!
 inputs:512 -> outputs:1024
+## !!News!!
+You can use [my model](https://github.com/LeslieZhoa/GFPGAN-1024/releases/download/v0.0/final.pth) to train. It contains everything!
 ## My results
 original | gfpgan | gfgan-1024
 ![](assets/10000.jpg)
