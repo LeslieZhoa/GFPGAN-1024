@@ -32,7 +32,7 @@ refer [GFPGAN](https://github.com/TencentARC/GFPGAN) to download<br>
 4. GFPGANv1_net_d_right_eye.pth
 5. arcface_resnet18.pth
 6. get vgg model [here](https://github.com/LeslieZhoa/DCT-NET.Pytorch/releases/download/v0.0/vgg19-dcbb9e9d.pth) 
-7. get discriminator [here](https://github.com/LeslieZhoa/GFPGAN-1024/releases/download/untagged-7fadd91b517da1810e55/d.pth) which is transformed from [original stylegan2](https://github.com/NVlabs/stylegan2)
+7. get discriminator [here](https://github.com/LeslieZhoa/GFPGAN-1024/releases/download/v0.1/d.pth) which is transformed from [original stylegan2](https://github.com/NVlabs/stylegan2)
 
 put these model into pretrained_models
 
