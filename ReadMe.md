@@ -70,5 +70,5 @@ Can multi batch<br>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LeslieZhoa/Simple-Lora&type=Date)](https://star-history.com/#LeslieZhoa/GFPGAN-1024&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=LeslieZhoa/GFPGAN-1024&type=Date)](https://star-history.com/#LeslieZhoa/GFPGAN-1024&Date)
     
