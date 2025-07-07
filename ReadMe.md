@@ -68,5 +68,7 @@ Can multi batch<br>
 ```python utils/convert_pt.py```
 
 
-   
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LeslieZhoa/Simple-Lora&type=Date)](https://star-history.com/#LeslieZhoa/GFPGAN-1024&Date)
     
